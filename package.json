@@ -15,7 +15,7 @@
     "q-fs": "0.1.36",
     "qq": "0.3.5",
     "shelljs": "0.1.2",
-    "karma": "~0.10",
+    "karma": "~0.9",
     "karma-jasmine": "~0.1",
     "karma-chrome-launcher": "~0.1",
     "karma-firefox-launcher": "~0.1",
